@@ -1,0 +1,20 @@
+ {"profile":[{ "img":"anu.jpg",
+    "name":"anu",
+    "profession":"actress",
+    "first movie":"premam"
+},
+{
+    "img":"nivetha.jpg",
+    "name":"nivetha thomas",
+    "profession":"actress",
+    "first movie":"gentleman"
+},
+{
+    
+    "img":"sam.jpg",
+    "name":"samantha",
+    "profession":"actress",
+    "first movie":"ye maya chesave"
+}]
+
+}
